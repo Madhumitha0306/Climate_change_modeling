@@ -26,3 +26,8 @@ Using **NLP (Natural Language Processing)**, comments are classified into three 
 * Logistic Regression for classification.
 * Evaluation metrics: Accuracy, Precision, Recall, F1-score.
 
+🏁 Conclusion
+
+This project demonstrates how Data Science and NLP can analyze public opinions on global issues like climate change.
+By leveraging textual data from social media, organizations like NASA can better understand public awareness, opinions, and emotional reactions, helping them improve climate communication strategies.
+
